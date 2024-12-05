@@ -23,3 +23,5 @@ if total_cost <= spending_limit:
     print("You can buy these items Your total cost is ",  total_cost)
 else:
     print("You cannot buy these items. The amount of money u can spend is ", spending_limit)
+
+#check the status
